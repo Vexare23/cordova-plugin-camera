@@ -47,7 +47,7 @@ It is also possible to install via repo url directly ( unstable )
 ## Plugin variables
 
 The plugin uses the `ANDROIDX_CORE_VERSION` variable to configure `androidx.core:core` dependency. This allows to avoid conflicts with other plugins that have the dependency hardcoded.
-If no value is passed, it will use `1.8` as the default value.
+If no value is passed, it will use `1.8.0` as the default value.
 
 The variable is configured on install time
 
